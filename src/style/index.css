@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "bootstrap.min.css";
+@import "cart.css";
+@import "cart_responsive.css";
+@import "categories.css";
+@import "categories_responsive.css";
+@import "checkout.css";
+@import "checkout_responsive.css";
+@import "contact.css";
+@import "contact_responsive.css";
+@import "main_styles.css";
+@import "product.css";
+@import "product_responsive.css";
+@import "responsive.css";
