@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.274fb557.css",
+    "main.js": "/react-gh-pages/static/js/main.3dae3a93.js",
+    "static/media/51TD5JLGhIL._SX3000_.jpg": "/react-gh-pages/static/media/51TD5JLGhIL._SX3000_.f1c065f83973fab4b72e.jpg",
+    "static/media/61TD5JLGhIL._SX3000_.jpg": "/react-gh-pages/static/media/61TD5JLGhIL._SX3000_.7bd19d6f612f0af44d49.jpg",
+    "static/media/61qa3132IFL._SX3000_.jpg": "/react-gh-pages/static/media/61qa3132IFL._SX3000_.cca9630b4e6701aced29.jpg",
+    "static/media/product_4.jpg": "/react-gh-pages/static/media/product_4.e7d126901e630c8379ba.jpg",
+    "static/media/product_2.jpg": "/react-gh-pages/static/media/product_2.5e8e7b5de7e76fa77a25.jpg",
+    "static/media/product_7.jpg": "/react-gh-pages/static/media/product_7.d902bc962ad271161d28.jpg",
+    "static/media/avds_large.jpg": "/react-gh-pages/static/media/avds_large.3315d27aa1e982872d84.jpg",
+    "static/media/product_6.jpg": "/react-gh-pages/static/media/product_6.f12f28a359b1b150de55.jpg",
+    "static/media/product_8.jpg": "/react-gh-pages/static/media/product_8.11532a700cf879e63dc7.jpg",
+    "static/media/product_10.jpg": "/react-gh-pages/static/media/product_10.cb60d6322f51bf4c6f5b.jpg",
+    "static/media/product_5.jpg": "/react-gh-pages/static/media/product_5.c89672a6fc93ca33fe1c.jpg",
+    "static/media/home_slider_1.jpg": "/react-gh-pages/static/media/home_slider_1.732855d249382b10b94c.jpg",
+    "static/media/avds_xl.jpg": "/react-gh-pages/static/media/avds_xl.00176e2cddd4dc7d2cfb.jpg",
+    "static/media/product_1.jpg": "/react-gh-pages/static/media/product_1.082a8a21e13803f42b46.jpg",
+    "static/media/product_9.jpg": "/react-gh-pages/static/media/product_9.0603b2e7eae63e9e1626.jpg",
+    "static/media/avds_small.jpg": "/react-gh-pages/static/media/avds_small.1ededfef8e17b80a5db7.jpg",
+    "static/media/product_11.jpg": "/react-gh-pages/static/media/product_11.b06dc4d6210f6cc49c38.jpg",
+    "static/media/product_12.jpg": "/react-gh-pages/static/media/product_12.a77ed06776f61c9b0373.jpg",
+    "static/media/product_3.jpg": "/react-gh-pages/static/media/product_3.ddded6fe84a8ced3bdf9.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.274fb557.css.map": "/react-gh-pages/static/css/main.274fb557.css.map",
+    "main.3dae3a93.js.map": "/react-gh-pages/static/js/main.3dae3a93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.274fb557.css",
+    "static/js/main.3dae3a93.js"
+  ]
+}
